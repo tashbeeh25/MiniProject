@@ -1,0 +1,10 @@
+Occurrences of affair are: 4
+Occurrences of dead are: 33
+Occurrences of hate are: 1
+Occurrences of heaven are: 43
+Occurrences of heart are: 29
+Occurrences of love are: 67
+Occurrences of music are: 8
+Occurrences of sorrow are: 6
+Occurrences of sorrow are: 6
+The total number of words in script are: 34278

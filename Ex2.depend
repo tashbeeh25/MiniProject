@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1534018955 source:c:\users\tashbeeh\desktop\ass1\ex2\readwords.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"ReadWords.h"
+
+1534017796 c:\users\tashbeeh\desktop\ass1\ex2\readwords.h
+	<iostream>
+	<string>
+	<fstream>
+
+1534011884 source:c:\users\tashbeeh\desktop\ass1\ex2\writer.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	"Writer.h"
+
+1534013553 c:\users\tashbeeh\desktop\ass1\ex2\writer.h
+	<iostream>
+	<fstream>
+	<string>
+
+1534018923 source:c:\users\tashbeeh\desktop\ass1\ex2\main.cpp
+	"ReadWords.h"
+	"WriteWords.h"
+	<string>
+	<fstream>
+	<algorithm>
+	<iostream>
+
+1534017796 c:\users\tashbeeh\desktop\ass1\ex2\writewords.h
+	<iostream>
+	<fstream>
+	<string>
+
+1534018955 source:c:\users\tashbeeh\desktop\ass1\ex2\writewords.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	"WriteWords.h"
+
