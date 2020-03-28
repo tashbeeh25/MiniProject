@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1533955595 source:c:\users\tashbeeh\desktop\c++ assignment 1\ex1\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+	<stdlib.h>
+
+1533779500 c:\users\tashbeeh\desktop\c++ assignment 1\ex1\time.h
+	<iostream>
+
+1533984781 source:c:\users\tashbeeh\desktop\c++ assignment 1\ex1\date.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	<stdlib.h>
+
+1533984846 c:\users\tashbeeh\desktop\c++ assignment 1\ex1\date.h
+	<iostream>
+
+1533979310 source:c:\users\tashbeeh\desktop\c++ assignment 1\ex1\main.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+	<stdlib.h>
+
+1533984110 source:c:\users\tashbeeh\desktop\c++ assignment 1\ex1\mainn.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	<stdlib.h>
+
+1534095159 source:c:\users\tashbeeh\desktop\ass1\ex1\main.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+	<stdlib.h>
+
+1533779500 c:\users\tashbeeh\desktop\ass1\ex1\time.h
+	<iostream>
+
+1533955595 source:c:\users\tashbeeh\desktop\ass1\ex1\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+	<stdlib.h>
+
+1534823277 source:c:\users\tashbeeh\desktop\ass1\ex1\date.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	<stdlib.h>
+
+1534095354 c:\users\tashbeeh\desktop\ass1\ex1\date.h
+	<iostream>
+
+1534823277 source:c:\users\tashbeeh\desktop\ass1\ex1\mainn.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	<stdlib.h>
+
